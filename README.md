@@ -54,5 +54,5 @@ The notebook is split into 7 main parts:
 ## 📥 How to Run It
 1. **Download this project**  
    ```bash
-   git clone https://github.com/yourusername/newsbot2.git
+   git clone https://github.com/MiguelSanchez62002/ITAI2373-NewsBot-Final-/tree/main
    cd newsbot2
